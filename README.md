@@ -25,7 +25,7 @@ I'm a passionate Flutter developer with a knack for building efficient and scala
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammedAli21&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammed-ali-909b831b5/](https://www.linkedin.com/in/mohammed-ali-909b831b5/)
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-ali-909b831b5/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmohamed20211@gmail.com)
 
 ## 💻 Projects
@@ -33,5 +33,8 @@ I'm a passionate Flutter developer with a knack for building efficient and scala
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAli21&repo=ToDo_app&theme=radical)](https://github.com/MuhammedAli21/ToDo_app)
+
+
+
 
 
