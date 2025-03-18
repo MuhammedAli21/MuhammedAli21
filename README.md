@@ -3,8 +3,7 @@
 ## 🚀 About Me
 I'm a passionate Flutter developer with a knack for building efficient and scalable applications. I enjoy working with various programming languages and technologies, and I love learning new things every day.
 
-- 🔭 I’m currently working on [ToDo App](https://github.com/MuhammedAli21/ToDo_app)
-- 🌱 I’m currently learning advanced Flutter techniques and backend development
+- 🔭 I’m currently learning advanced Flutter techniques and backend development
 - 💬 Ask me about anything related to Flutter, Dart, or mobile app development
 - 📫 How to reach me: [muhammed.ali@example.com](mailto:mohamedmohamed20211@gmail.com)
 - ⚡ Fun fact: I love playing video games
