@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Muhammed Ali! 👋
 
-<!--
-**MuhammedAli21/MuhammedAli21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Flutter developer with a knack for building efficient and scalable applications. I enjoy working with various programming languages and technologies, and I love learning new things every day.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [ToDo App](https://github.com/MuhammedAli21/ToDo_app)
+- 🌱 I’m currently learning advanced Flutter techniques and backend development
+- 💬 Ask me about anything related to Flutter, Dart, or mobile app development
+- 📫 How to reach me: [muhammed.ali@example.com](mailto:muhammed.ali@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing chess and solving puzzles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+<p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
+
+
+## 📊 GitHub Stats
+![Muhammed Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedAli21&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammedAli21&theme=radical)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammed-ali](https://www.linkedin.com/in/mohammed-ali-909b831b5/)/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmohamed20211@gmail.com)
+
+## 💻 Projects
+- [ToDo App](https://github.com/MuhammedAli21/ToDo_app) - A Flutter-based ToDo application
+
+## 🌟 Featured Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAli21&repo=ToDo_app&theme=radical)](https://github.com/MuhammedAli21/ToDo_app)
+
+
