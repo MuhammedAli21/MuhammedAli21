@@ -25,7 +25,7 @@ I'm a passionate Flutter developer with a knack for building efficient and scala
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammedAli21&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammed-ali](https://www.linkedin.com/in/mohammed-ali-909b831b5/)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammed-ali-909b831b5/](https://www.linkedin.com/in/mohammed-ali-909b831b5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmohamed20211@gmail.com)
 
 ## 💻 Projects
