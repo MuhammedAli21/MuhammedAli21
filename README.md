@@ -5,7 +5,7 @@ I'm a passionate Flutter developer with a knack for building efficient and scala
 
 - 🔭 I’m currently learning advanced Flutter techniques and backend development
 - 💬 Ask me about anything related to Flutter, Dart, or mobile app development
-- 📫 How to reach me: [muhammed.ali@example.com](mailto:mohamedmohamed20211@gmail.com)
+- 📫 How to reach me: [mohamedmohamed20211@gmail.com](mailto:mohamedmohamed20211@gmail.com)
 - ⚡ Fun fact: I love playing video games
 
 ## 🛠️ Languages and Tools
