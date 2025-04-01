@@ -33,6 +33,7 @@ I'm a passionate Flutter developer with a knack for building efficient and scala
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAli21&repo=ToDo_app&theme=radical)](https://github.com/MuhammedAli21/ToDo_app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAli21&repo=notes_app&theme=radical)](https://github.com/MuhammedAli21/notes_app)
 
 
 
